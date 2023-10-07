@@ -4,7 +4,7 @@ pygame.init()
 white = (255, 255, 255)
 Blue = (255, 0, 0)
 
-size = (1,1)
+size = (800,501)
 screen = pygame.display.set_mode(size) 
 Clock = pygame.time.Clock()
 
